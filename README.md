@@ -6,7 +6,7 @@
 * 🌱 I’m currently learning about flutter, Node.Js, Unity AR (Vuforia)
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gustavo-neri-542a82150/)
 * 📚 Skills: 
-  * Flutter | Firebase | Java | Unity | API
+  * 📌 Flutter | Firebase | Java | Unity | API
 
 <!--
 **GustavoNeri02/GustavoNeri02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
