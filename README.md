@@ -2,7 +2,7 @@
 
 💻 Computer Science student.
   
-   * 🔭 I’m currently working on a "umbrella" project in the reserarch group NuPPGIN where I'm creating a<img align="right" alt="GustavoPersonagem" height="172cm" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202202/684058_YOBkO0th.png"/> Flutter mobile app using Augmented Reality techniques in BIM in the electric power industry context.
+   * 🔭 I’m currently working on a "umbrella" project in the reserarch group NuPPGIN where I'm creating a<img align="right" alt="GustavoPersonagem" height="150cm" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202202/684058_YOBkO0th.png"/> Flutter mobile app using Augmented Reality techniques in BIM in the electric power industry context.
    * 🌱 I’m currently learning about flutter, Node.Js, Unity AR (Vuforia) 
    * 📚 Skills:
      * 📌 Flutter | Firebase | Java | Unity | API
@@ -20,7 +20,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoneri02&layout=compact&langs_count=7&theme=react"/>
 </div>
  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gustavoneri02/gustavoneri02/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
