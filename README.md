@@ -2,7 +2,7 @@
 
 💻 Computer Science student.
 
-* 🔭 I’m currently working on a "umbrella" project in the reserarch group NuPPGIN where I'm creating a Flutter mobile app using Augmented Reality techniques in BIM
+* 🔭 I’m currently working on a "umbrella" project in the reserarch group NuPPGIN where I'm creating a Flutter mobile app using Augmented Reality techniques in BIM in the electric power industry context.
 * 🌱 I’m currently learning about flutter, Node.Js, Unity AR (Vuforia)
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gustavo-neri-542a82150/)
 * 📚 Skills: 
