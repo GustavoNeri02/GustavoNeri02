@@ -2,7 +2,7 @@
 
 💻 Computer Science student.
   
-   * 🔭 I’m currently working on a "umbrella" project in the reserarch group NuPPGIN where I'm creating a<img align="right" alt="GustavoPersonagem" height="158cm" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202202/684058_YOBkO0th.png"/> Flutter mobile app using Augmented Reality techniques in BIM in the electric power industry context.
+   * 🔭 I’m currently working on a "umbrella" project in the reserarch group NuPPGIN where I'm creating a<img align="right" alt="GustavoPersonagem" height="156cm" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202202/684058_YOBkO0th.png"/> Flutter mobile app using Augmented Reality techniques in BIM in the electric power industry context.
    * 🌱 I’m currently learning about flutter, Node.Js, Unity AR (Vuforia) 
    * 📚 Skills:
      * 📌 Flutter | Firebase | Java | Unity | API
