@@ -8,7 +8,7 @@
      * 📌 Flutter | Firebase | Java | Unity | API
  
  <div align="right">
-  <a href = "gustavoneri22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href = "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKjRFJxclZtlvhWzHsjqdhHctzZPBgdTSQWFwzPsnlsRwMfGPMMxCJmMbLlwMdRslTtnLbg"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-neri-542a82150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
 
