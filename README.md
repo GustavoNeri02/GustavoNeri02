@@ -5,7 +5,7 @@
    * 🔭 I’m currently working on a "umbrella" project in the reserarch group NuPPGIN where I'm creating a<img align="right" alt="GustavoPersonagem" height="156cm" style="border-radius:50px;" src="https://user-images.githubusercontent.com/47922321/196183087-6c008545-9913-470f-bea3-cbc78c6f1ac3.png"/> Flutter mobile app using Augmented Reality techniques in BIM in the electric power industry context.
    * 🌱 I’m currently learning about flutter, Node.Js, Unity AR (Vuforia) 
    * 📚 Skills:
-     * 📌 Flutter | Firebase | Java | Unity | RESTful
+     * 📌 Flutter | Firebase | Figma | Unity | Node.js
  
 
  <div align="right">
