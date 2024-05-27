@@ -6,9 +6,9 @@
    * 🔭 I’m also working on a "umbrella" project in the reserarch group NuPPGIN where I'm creating a Flutter mobile app using Augmented Reality techniques in BIM in the electric power industry context.
    * 🌱 I’m currently learning about Flutter, Node.Js, Unity AR (Vuforia) 
    * 📚 Skills:
-     * Flutter · Dart · Clean Architecture · MobX · Modular · Figma · Git · GitFlow · Dio · Firebase · Unity · Node.js 📌
+     * Flutter · Dart · Clean Architecture · MVVM · MobX · Modular · BLoC · GetIt · Figma · Git · Dio · Firebase · Unity · Node.js 📌
        
-   * 💬 Feel free to contact me!
+💬 Feel free to contact me!
  
 
  <div align="left">
