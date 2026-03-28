@@ -3,8 +3,6 @@
 💻 Flutter Mobile Developer.
 
    * 🔭 I'm currently working on Avenue as a Software Engineering
-   * 📚 Skills:
-     * Flutter · Dart · Clean Architecture · MVVM · MobX · Modular · BLoC · GetIt · Figma · Git · Dio · Firebase · Unity · Node.js 📌
        
 💬 Feel free to contact me!
  
