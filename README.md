@@ -2,7 +2,7 @@
 
 💻 Flutter Mobile Developer.
 
-   * 🔭 I'm currently working on Avenue as a Software Engineering
+   * 🔭 I'm currently working on Avenue as a Software Engineer
        
 💬 Feel free to contact me!
  
